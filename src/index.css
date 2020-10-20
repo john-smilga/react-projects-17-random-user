@@ -155,13 +155,7 @@ p {
     width: 95vw;
   }
 }
-.loading {
-  text-align: center;
-  min-height: 375px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 /* container */
 .block {
   min-height: 50vh;
